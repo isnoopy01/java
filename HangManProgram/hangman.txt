@@ -1,0 +1,6 @@
+pencil
+computer
+laptop
+screen
+mouse
+battery
